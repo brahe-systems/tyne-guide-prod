@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! p5.js v1.3.0 March 09, 2021 */
+
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
